@@ -3,7 +3,7 @@
  * @Author: rachel-lly
  * @Date: 2021-07-17 17:19
  */
-public class Stack<T> {
+public class LinkedListStack<T> {
 
     private static class Node<T>{
         T item;
