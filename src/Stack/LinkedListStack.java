@@ -1,3 +1,5 @@
+package Stack;
+
 /**
  * @Describtion: 链表实现 Stack
  * @Author: rachel-lly
